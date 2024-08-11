@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aprilisn
 - 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning CSS, JS, HTML, ...
+- 🌱 I’m currently learning CSS, JS, HTML, and Database
 - 💞️ I’m looking to collaborate on ur job!!
 - 📫 How to reach me: srinurwulanaprilia@gmail.com
 - 😄 Pronouns: she/her
